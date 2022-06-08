@@ -9,3 +9,5 @@ LEETCODE:
 
 42 - Trapping Rain Water: T = O(n)  
 
+7 - Reverse Integer: T = O(n)
+
