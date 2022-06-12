@@ -11,3 +11,4 @@ LEETCODE:
 
 7 - Reverse Integer: T = O(n)
 
+412 - Fizz Buzz: T = O(n)
