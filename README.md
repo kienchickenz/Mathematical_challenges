@@ -13,6 +13,6 @@ LEETCODE:
 
 412 - Fizz Buzz: T = O(n)
 
-12 - Integer to Roman: T = 
+12 - Integer to Roman: T = O(n^2)
 
-13 - Roman to Integer: T = 
+13 - Roman to Integer: T = O(n)
