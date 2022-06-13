@@ -1,4 +1,4 @@
-# Mathematical-challenges
+# Mathematical challenges
 LEETCODE:
 
 1 - 2 Sum: T = O(n^2) & T = O(n)
