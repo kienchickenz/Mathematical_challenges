@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
 
-	vector<int> integer = {1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000};
-	vector<string> roman = {"I", "IV", "V" ,"IX", "X", "XL", "L", "XC", "C" ,"CD", "D", "CM", "M"};
+	vector<int> integer = {1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000}; // KEY POINT
+	vector<string> roman = {"I", "IV", "V" ,"IX", "X", "XL", "L", "XC", "C" ,"CD", "D", "CM", "M"}; // KEY POINT
 
 	int n;
 
@@ -14,6 +14,7 @@ int main() {
 	cout << "Enter the number: ";
 	cin >> n;
 
+	// Divide the number
 	string result;
 	int a = n / 100;
 	int b = ( n - a * 100 ) / 10;
@@ -21,6 +22,7 @@ int main() {
 
 	int k;
 
+	// Iterator i in integer vector is CORRESPONDING to the roman vector
 	for(int i = 0; i < integer.size(); i++) {
 
 		if(a * 100 == integer[i]) {
