@@ -19,6 +19,6 @@ int main() {
 
 	}
 
-	cout << "The " << n << "th number is: " << number[n - 1];
+	cout << "There are " << number[n - 1] << " ways.";
 
 }
