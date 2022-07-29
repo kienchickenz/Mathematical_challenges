@@ -23,6 +23,8 @@ LEETCODE:
 
 73 - Set Matrix Zeroes: T = O(n^2)
 
+251 - Flatten 2D Vector: T = O(n)
+
 283 - Move Zeroes+: T = O(n^2) (Bugs when the list is too big) & T = O(n)
 
 412 - Fizz Buzz: T = O(n)
