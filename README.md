@@ -25,6 +25,8 @@ LEETCODE:
 
 73 - Set Matrix Zeroes: T = O(n^2)
 
+84 - Largest Rectangle in Histogram: T = O(n . log n)
+
 204 - Count Primes: T = O(n^2)
 
 251 - Flatten 2D Vector: T = O(n)
