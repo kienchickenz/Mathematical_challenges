@@ -10,8 +10,11 @@ def find_max(my_list, max = None):
 
     return find_max(my_list[1:], max)
 
+# AT LEAST one bar is fully included in the largest rectangle
+# => Find areas of all largest rectangles for each bar being included full.
 def largest_area(my_histogram):
 
+    # Find the largest rectangles for each bar being included full
     result = []
 
     for i in range(len(my_histogram)):
