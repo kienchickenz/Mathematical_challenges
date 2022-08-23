@@ -27,6 +27,8 @@ LEETCODE:
 
 84 - Largest Rectangle in Histogram: T = O(n . log n)
 
+85 - Maximal Rectangle: T = O(n^2)
+
 204 - Count Primes: T = O(n^2)
 
 238 - Product of Array Except Self: T = O(n^2), O(n)
